@@ -330,6 +330,15 @@ if (Meteor.isServer) {
 			this.ready();
 		}
 	});
+	
+	Inject.rawModHtml('moveScriptsToBottom', function(html) {
+	    // get all scripts
+	    var scripts = html.match(/<script type="text\/javascript" src.*"><\/script>\n/g);
+	    // remove all scripts
+	    html = html.replace(/<script type="text\/javascript" src.*"><\/script>\n/g, '');
+	    // add scripts to the bottom
+	    return html.replace(/<\/body>/, scripts.join('') + '\n</body>');
+	});
 
 	Meteor.startup(function () {
 		// code to run on server at startup

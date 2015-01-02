@@ -7,9 +7,10 @@
 meteor-platform
 insecure
 react
-livedata
-mongo-livedata
+#livedata
+#mongo-livedata
 routecore
 #deps
 accounts-password
 remarkable
+meteorhacks:inject-initial
