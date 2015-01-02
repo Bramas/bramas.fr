@@ -122,6 +122,8 @@ var AppComponent = React.createClass({
 		return {};
 	},
     render: function(){
+    	var currentSlug = currentPage ? currentPage.slug : 'home';
+
 		var content = this.props.page && this.props.page.content;
         return (
         	<div className="container">
@@ -138,8 +140,8 @@ var AppComponent = React.createClass({
 						</div>
 			            <div className="navbar-collapse collapse">
 							<ul className="nav navbar-nav">
-								<li className={currentPage.slug=='home'?'active':''}><a href={Routes.home()}>Home</a></li>
-								<li className={currentPage.slug=='about'?'active':''}><a href={Routes.page('about')}>About</a></li>
+								<li className={currentSlug=='home'?'active':''}><a href={Routes.home()}>Home</a></li>
+								<li className={currentSlug=='about'?'active':''}><a href={Routes.page('about')}>About</a></li>
 							</ul>
 						</div>
 					</div>
@@ -330,7 +332,7 @@ if (Meteor.isServer) {
 			this.ready();
 		}
 	});
-	
+
 	Inject.rawModHtml('moveScriptsToBottom', function(html) {
 	    // get all scripts
 	    var scripts = html.match(/<script type="text\/javascript" src.*"><\/script>\n/g);
@@ -343,6 +345,8 @@ if (Meteor.isServer) {
 	Meteor.startup(function () {
 		// code to run on server at startup
 		console.log(Pages.find().fetch());
+		console.log(Meteor.users.findOne());
+		console.log(Meteor.users.findOne().services.resume);
 		if (Pages.find().count() === 0) {
         	Pages.insert({content: '<h1>Hello World</h1>'});
         	Pages.insert({content: '<h1>About</h1>'});
@@ -358,7 +362,6 @@ if (Meteor.isClient) {
 
 
 	Meteor.startup(function() {
-		
 	});
 }
 
