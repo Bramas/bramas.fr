@@ -12,5 +12,7 @@ I am working on:
 I studied mathematics at the University of Clermont-Ferrand and computer science at the University of Paris 5.
 
 
-## Publications
-## WiseBat (source coming soon)
+### Publications
+
+[gimmick:dblp](conf/adhoc-now/BramasT15.xml)
+### WiseBat (source coming soon)
