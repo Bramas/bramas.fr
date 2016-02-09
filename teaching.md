@@ -1,5 +1,5 @@
-Quentin Bramas - Teaching
-==========================
+Teaching
+========
  
 ProgRes (2015/2016)
 --------
