@@ -1,4 +1,7 @@
 [gimmick:theme](readable)
-[Home](index.md)
+
+# Quentin Bramas
+
+[About](index.md)
 
 [Teaching](teaching.md)
