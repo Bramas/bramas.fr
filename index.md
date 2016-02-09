@@ -19,4 +19,10 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 [gimmick:dblp](authors=Quentin Bramas, Wilfried Dron, Mariem Ben Fadhl, Khalil Hachicha, Patrick Garda and Sébastien Tixeuil&title=WiSeBat: accurate energy benchmarking of wireless sensor networks.&conf=FDL 2015&url=http://dx.doi.org/10.1109/FDL.2015.7306084)
 
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Wait-Free Gathering Without Chirality.&conf=SIROCCO 2015&url=http://dx.doi.org/10.1007/978-3-319-25258-2_22)
+
+
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=The Complexity of Data Aggregation in Static and Dynamic Wireless Sensor Networks.&conf=SSS 2015&url=http://dx.doi.org/10.1007/978-3-319-21741-3_3)
+
+
 ### WiseBat (source coming soon)
