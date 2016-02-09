@@ -1,6 +1,6 @@
-[gimmick:theme](readable)
-Quentin Bramas
-==============
+About
+=====
+
 
 [Teaching](teaching/)
 
