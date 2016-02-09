@@ -24,10 +24,24 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 [gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=The Complexity of Data Aggregation in Static and Dynamic Wireless Sensor Networks.&conf=SSS 2015&url=http://dx.doi.org/10.1007/978-3-319-21741-3_3)
 
+#### French Conference
+
 #### Technical Report
 
 [gimmick:dblp](authors=Quentin Bramas, Dianne Foreback, Mikhail Nesterenko and Sébastien Tixeuil&title=Packet Efficient Implementation of the Omega Failure Detector.&conf= CoRR abs/1505.05025&url=http://arxiv.org/abs/1505.05025)
 
 [gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Asynchronous Pattern Formation without Chirality.&conf=CoRR abs/1508.03714&url=http://arxiv.org/abs/1508.03714)
+
+
+
+### Publications in 2014
+#### French Conference
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Le pouvoir séparateur d'une pièce de monnaie.&conf=ALGOTEL 2014&url=https://hal.archives-ouvertes.fr/hal-00985322)
+
+### Publications in 2013
+#### Technical Report
+
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=The Random Bit Complexity of Mobile Robots Scattering.&conf=CoRR abs/1309.6603&url=http://arxiv.org/abs/1309.6603)
+
 
 ### WiseBat (source coming soon)
