@@ -14,5 +14,19 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 ### Publications
 
-[gimmick:dblp](conf/adhoc-now/BramasT15.xml)
+[gimmick:dblp](<dblp>
+<inproceedings key="conf/adhoc-now/BramasT15" mdate="2015-06-19">
+<author>Quentin Bramas</author>
+<author>Sébastien Tixeuil</author>
+<title>
+The Random Bit Complexity of Mobile Robots Scattering.
+</title>
+<pages>210-224</pages>
+<year>2015</year>
+<booktitle>ADHOC-NOW</booktitle>
+<ee>http://dx.doi.org/10.1007/978-3-319-19662-6_15</ee>
+<crossref>conf/adhoc-now/2015</crossref>
+<url>db/conf/adhoc-now/adhoc-now2015.html#BramasT15</url>
+</inproceedings>
+</dblp>)
 ### WiseBat (source coming soon)
