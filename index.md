@@ -14,6 +14,9 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 ### Publications
 
-[gimmick:dblp](authors:Quentin Bramas,Sébastien Tixeuil;title:The Random Bit Complexity of Mobile Robots Scattering.;conf:ADHOC-NOW;url:http://dx.doi.org/10.1007/978-3-319-19662-6_15)
+#### 2015
+[gimmick:dblp](authors:Quentin Bramas and Sébastien Tixeuil;title:The Random Bit Complexity of Mobile Robots Scattering.;conf:ADHOC-NOW 2015;url:http://dx.doi.org/10.1007/978-3-319-19662-6_15)
+
+[gimmick:dblp](authors:Quentin Bramas, Wilfried Dron, Mariem Ben Fadhl, Khalil Hachicha, Patrick Garda and Sébastien Tixeuil;title:WiSeBat: accurate energy benchmarking of wireless sensor networks.;conf:FDL 2015;url:http://dx.doi.org/10.1109/FDL.2015.7306084)
 
 ### WiseBat (source coming soon)
