@@ -1,1 +1,0 @@
-Remarkable = Npm.require("remarkable");
