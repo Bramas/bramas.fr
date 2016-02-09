@@ -26,6 +26,10 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 #### French Conference
 
+[gimmick:dblp](authors=Quentin Bramas, Wilfried Dron, Mariem Ben Fadhl, Khalil Hachicha, Patrick Garda and Sébastien Tixeuil&title=De la Survie Énergétique des Réseaux de Capteurs.&conf=ALGOTEL 2015&url=https://hal.archives-ouvertes.fr/hal-01144309)
+
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title= Agréger Rapidement des Données est Difficile.&conf=ALGOTEL 2015&url=https://hal.archives-ouvertes.fr/hal-01144458)
+
 #### Technical Report
 
 [gimmick:dblp](authors=Quentin Bramas, Dianne Foreback, Mikhail Nesterenko and Sébastien Tixeuil&title=Packet Efficient Implementation of the Omega Failure Detector.&conf= CoRR abs/1505.05025&url=http://arxiv.org/abs/1505.05025)
