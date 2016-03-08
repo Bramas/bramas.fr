@@ -1,8 +1,21 @@
 Teaching
 ========
  
+
 ProgRes (2015/2016)
 --------
+
+Pour installer un package pour python 3, sur les machines de l'umpc, il faut utiliser la commande suivante:
+
+```bash
+python3 -m pip install --user <le-nom-du-package>
+```
+si le module pip n'est pas installé, il faut executer les commandes suivantes:
+
+```bash
+wget https://bootstrap.pypa.io/get-pip.py
+python3 get-pip.py --user
+```
 
 ### Web Api
 
