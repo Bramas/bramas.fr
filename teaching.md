@@ -32,4 +32,4 @@ echo 'export PATH=/Vrac/ProgRes/local/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-_Comming soon_
+[Cours 1](teaching/introduction-to-js-and-nodejs.pdf)
