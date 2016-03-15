@@ -19,8 +19,8 @@ python3 get-pip.py --user
 
 ### Web Api
 
-[Cours 1](teaching/Web Service - Introduction.pdf)
-[Cours 2](teaching/Advanced Rest Api.pdf)
+[Cours 1](/teaching/Web Service - Introduction.pdf)
+[Cours 2](/teaching/Advanced Rest Api.pdf)
 
 
 ### NodeJs
@@ -32,4 +32,4 @@ echo 'export PATH=/Vrac/ProgRes/local/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-[Cours 1](teaching/introduction-to-js-and-nodejs.pdf)
+[Cours 1](/teaching/introduction-to-js-and-nodejs.pdf)
