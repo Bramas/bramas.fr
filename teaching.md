@@ -35,3 +35,4 @@ source ~/.bashrc
 [Cours 1](/teaching/introduction-to-js-and-nodejs.pdf)
 [Cours 2](/teaching/real-time-networking-game-with-nodejs.pdf)
 [TP](/teaching/TP-Nodejs.pdf)
+[Projet](/teaching/NodeJS-projet.pdf)
