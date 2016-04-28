@@ -5,6 +5,11 @@ Teaching
 ProgRes (2015/2016)
 --------
 
+**Soutenance prévue pour le 6 mai**
+* Document de 5 pages maximum expliquant les choix techniques effectués
+* Archive du code source
+* Vidéo de démonstration (minimum 5 minutes par étudiant par projet. Maximum 20 minutes)
+
 Pour installer un package pour python 3, sur les machines de l'umpc, il faut utiliser la commande suivante:
 
 ```bash
