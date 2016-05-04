@@ -5,7 +5,7 @@ Teaching
 ProgRes (2015/2016)
 --------
 
-**Soutenance prévue pour le 10 mai 23h59 par email  a tous les intervants de l'UE**
+**Rendre les projets au plus tard le 10 mai 23h59 par email à tous les intervants de l'UE**
  - Document de 5 pages maximum expliquant les choix techniques effectués
  - Archive du code source
  - Vidéo de démonstration (minimum 5 minutes par étudiant par projet. Maximum 20 minutes)
