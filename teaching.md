@@ -1,8 +1,13 @@
 Teaching
 ========
  
+Java DANT
+---------
 
-ProgRes (2015/2016)
+[Cours](http://bramas.gitlab.io/Java-course)
+
+
+ProgRes
 --------
 
 **Rendre les projets au plus tard le 10 mai 23h59 par email à tous les intervants de l'UE**
