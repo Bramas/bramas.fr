@@ -21,7 +21,7 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 [gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Brief Announcement: Probabilistic Asynchronous Arbitrary Pattern Formation.&conf=PODC 2016&url=http://doi.acm.org/10.1145/2933057.2933074)
  
-[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Probabilistic Asynchronous Arbitrary Pattern Formation (Short Paper).&conf=SSS 2016&url=http://dx.doi.org/10.1007/978-3-319-49259-9_7)
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Probabilistic Asynchronous Arbitrary Pattern Formation (Short Paper\).&conf=SSS 2016&url=http://dx.doi.org/10.1007/978-3-319-49259-9_7)
  
 [gimmick:dblp](authors=Quentin Bramas, Toshimitsu Masuzawa and Sébastien Tixeuil&title=Distributed Online Data Aggregation in Dynamic Graphs.&conf=ICDCS 2016&url=http://dx.doi.org/10.1109/ICDCS.2016.55)
 
