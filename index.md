@@ -12,6 +12,21 @@ I am working on:
 I studied mathematics at the University of Clermont-Ferrand and computer science at the University of Paris 5.
 
 
+
+### Publications in 2016
+
+#### International Conference
+
+[gimmick:dblp](authors=Quentin Bramas, Dianne Foreback, Mikhail Nesterenko and Sébastien Tixeuil&title=Packet Efficient Implementation of the Omega Failure Detector.&conf=SSS 2016&url=http://dx.doi.org/10.1007/978-3-319-49259-9_6)
+
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Brief Announcement: Probabilistic Asynchronous Arbitrary Pattern Formation.&conf=PODC 2016&url=http://doi.acm.org/10.1145/2933057.2933074)
+ 
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Probabilistic Asynchronous Arbitrary Pattern Formation (Short Paper).&conf=SSS 2016&url=http://dx.doi.org/10.1007/978-3-319-49259-9_7)
+ 
+[gimmick:dblp](authors=Quentin Bramas, Toshimitsu Masuzawa and Sébastien Tixeuil&title=Distributed Online Data Aggregation in Dynamic Graphs.&conf=ICDCS 2016&url=http://dx.doi.org/10.1109/ICDCS.2016.55)
+
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Benchmarking Energy-Centric Broadcast Protocols in Wireless Sensor Networks.&conf=NETYS 2016&url=http://dx.doi.org/10.1007/978-3-319-46140-3_7)
+
 ### Publications in 2015
 
 #### International Conference
