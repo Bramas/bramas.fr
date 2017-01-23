@@ -1,6 +1,18 @@
 Teaching
 ========
- 
+
+ANET 2016/2017
+--------
+
+* [C1-Model](https://github.com/Bramas/bramas.fr/raw/gh-pages/p1-model.pdf)
+* [C1-Leader Election](https://github.com/Bramas/bramas.fr/raw/gh-pages/p1-leader.pdf)
+* [C2-Pattern Formation-Generality](https://github.com/Bramas/bramas.fr/raw/gh-pages/p2-pattern-formation.pdf)
+* [C2-Pattern Formation-Caracterization](https://github.com/Bramas/bramas.fr/raw/gh-pages/p2-pattern-formation-caracterization.pdf)
+* [C3-Gathering](https://github.com/Bramas/bramas.fr/raw/gh-pages/p3-gathering_intro.pdf)
+* [C3-Gathering Odd](https://github.com/Bramas/bramas.fr/raw/gh-pages/p3-gathering_odd.pdf)
+* [C4-Ring Exploration](https://github.com/Bramas/bramas.fr/raw/gh-pages/p4-ring_exploration.pdf)
+* [C4-Grid Exploration](https://github.com/Bramas/bramas.fr/raw/gh-pages/p4-grid_exploration.pdf)
+
 Java DANT
 ---------
 
