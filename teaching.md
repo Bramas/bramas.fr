@@ -19,13 +19,13 @@ Java DANT
 [Cours](http://bramas.gitlab.io/Java-course)
 
 
-ProgRes
---------
+ProgRes 2017
+-----------
 
-**Rendre les projets au plus tard le 10 mai 23h59 par email à tous les intervants de l'UE**
+**Projet**
  - Document de 5 pages maximum expliquant les choix techniques effectués
  - Archive du code source
- - Vidéo de démonstration (minimum 5 minutes par étudiant par projet. Maximum 20 minutes)
+ - Vidéo de démonstration (minimum 3 minutes par étudiant par projet. Maximum 10 minutes)
 
 Pour installer un package pour python 3, sur les machines de l'umpc, il faut utiliser la commande suivante:
 
@@ -38,6 +38,11 @@ si le module pip n'est pas installé, il faut executer les commandes suivantes:
 wget https://bootstrap.pypa.io/get-pip.py
 python3 get-pip.py --user
 ```
+
+### Les Bases de la Programmation Réseau
+
+[Slides](/teaching/Progres-intro.pdf)
+[TP](/teaching/PROGRES_TP1.pdf)
 
 ### Web Api
 
