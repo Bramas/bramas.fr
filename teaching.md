@@ -49,7 +49,7 @@ python3 get-pip.py --user
 [Cours 1](/teaching/Web Service - Introduction.pdf)
 [Cours 2](/teaching/Advanced Rest Api.pdf)
 
-
+<!---
 ### NodeJs
 
 Node js est installer dans le dossier `/Vrac/ProgRes/local/bin`. Pour l'utiliser facilement, ajoutez-le au Path:
@@ -63,3 +63,4 @@ source ~/.bashrc
 [Cours 2](/teaching/real-time-networking-game-with-nodejs.pdf)
 [TP](/teaching/TP-Nodejs.pdf)
 [Projet](/teaching/NodeJS-projet.pdf)
+-->
