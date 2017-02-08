@@ -41,13 +41,13 @@ python3 get-pip.py --user
 
 ### Les Bases de la Programmation Réseau
 
-[Slides](/teaching/Progres-intro.pdf)
-[TP](/teaching/PROGRES_TP1.pdf)
+[Slides](http://bramas.fr/teaching/Progres-intro.pdf)
+[TP](http://bramas.fr/teaching/PROGRES_TP1.pdf)
 
 ### Web Api
 
-[Cours 1](/teaching/Web Service - Introduction.pdf)
-[Cours 2](/teaching/Advanced Rest Api.pdf)
+[Cours 1](http://bramas.fr/teaching/Web Service - Introduction.pdf)
+[Cours 2](http://bramas.fr/teaching/Advanced Rest Api.pdf)
 [TP](https://github.com/Bramas/bramas.fr/raw/gh-pages/projet-webApi.pdf)
 
 <!---
