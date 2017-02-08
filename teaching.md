@@ -48,6 +48,7 @@ python3 get-pip.py --user
 
 [Cours 1](/teaching/Web Service - Introduction.pdf)
 [Cours 2](/teaching/Advanced Rest Api.pdf)
+[TP](https://github.com/Bramas/bramas.fr/raw/gh-pages/projet-webApi.pdf)
 
 <!---
 ### NodeJs
