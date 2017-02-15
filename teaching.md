@@ -48,9 +48,10 @@ python3 get-pip.py --user
 
 [Cours 1](http://bramas.fr/teaching/Web Service - Introduction.pdf)
 [Cours 2](http://bramas.fr/teaching/Advanced Rest Api.pdf)
-[TP](https://github.com/Bramas/bramas.fr/raw/gh-pages/projet-webApi.pdf)
+[TP](https://github.com/Bramas/bramas.fr/raw/gh-pages/TP-webApi.pdf)
+[Projet](https://github.com/Bramas/bramas.fr/raw/gh-pages/projet-webApi.pdf)
 
-<!---
+
 ### NodeJs
 
 Node js est installer dans le dossier `/Vrac/ProgRes/local/bin`. Pour l'utiliser facilement, ajoutez-le au Path:
@@ -60,8 +61,8 @@ echo 'export PATH=/Vrac/ProgRes/local/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-[Cours 1](/teaching/introduction-to-js-and-nodejs.pdf)
-[Cours 2](/teaching/real-time-networking-game-with-nodejs.pdf)
-[TP](/teaching/TP-Nodejs.pdf)
-[Projet](/teaching/NodeJS-projet.pdf)
+[Cours 1](http://bramas.fr/teaching/introduction-to-js-and-nodejs.pdf)
+[Cours 2](http://bramas.fr/teaching/real-time-networking-game-with-nodejs.pdf)
+[TP](http://bramas.fr/teaching/TP-Nodejs.pdf)
+<!--[Projet](/teaching/NodeJS-projet.pdf)
 -->
