@@ -15,6 +15,11 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 
 ### Publications in 2016
 
+
+#### Thesis
+
+[gimmick:dblp](authors=Quentin Bramas&title=Energy-Centric Wireless Sensor Networks.&conf=Pierre and Marie Curie University, Paris, France 2016&url=https://tel.archives-ouvertes.fr/tel-01380583)
+
 #### International Conference
 
 [gimmick:dblp](authors=Quentin Bramas, Dianne Foreback, Mikhail Nesterenko and Sébastien Tixeuil&title=Packet Efficient Implementation of the Omega Failure Detector.&conf=SSS 2016&url=http://dx.doi.org/10.1007/978-3-319-49259-9_6)
@@ -26,6 +31,14 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 [gimmick:dblp](authors=Quentin Bramas, Toshimitsu Masuzawa and Sébastien Tixeuil&title=Distributed Online Data Aggregation in Dynamic Graphs.&conf=ICDCS 2016&url=http://dx.doi.org/10.1109/ICDCS.2016.55)
 
 [gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Benchmarking Energy-Centric Broadcast Protocols in Wireless Sensor Networks.&conf=NETYS 2016&url=http://dx.doi.org/10.1007/978-3-319-46140-3_7)
+
+#### French Conference
+
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=Formation de Motifs Géométriques Arbitraires par des Robots Désorientés.&conf=ALGOTEL 2016&url=https://hal.archives-ouvertes.fr/hal-01302912)
+
+#### Technical Report
+
+[gimmick:dblp](authors=Quentin Bramas, Toshimitsu Masuzawa and Sébastien Tixeuil&title=Distributed Online Data Aggregation in Dynamic Graphs.&conf= CoRR abs/1602.01065&url=http://arxiv.org/abs/1602.01065)
 
 ### Publications in 2015
 
