@@ -16,7 +16,7 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 ### Publications in 2016
 
 
-#### Thesis
+##### Thesis
 
 [gimmick:dblp](authors=Quentin Bramas&title=Energy-Centric Wireless Sensor Networks.&conf=Pierre and Marie Curie University, Paris, France 2016&url=https://tel.archives-ouvertes.fr/tel-01380583)
 
