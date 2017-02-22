@@ -57,7 +57,7 @@ python3 get-pip.py --user
 Node js est installer dans le dossier `/Vrac/ProgRes/local/bin`. Pour l'utiliser facilement, ajoutez-le au Path:
 
 ```bash
-echo 'export PATH=/Vrac/ProgRes/local/bin:$PATH' >> ~/.bashrc
+echo 'export PATH=/Vrac/PROGRES/local/bin:$PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
 
