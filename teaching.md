@@ -64,5 +64,9 @@ source ~/.bashrc
 [Cours 1](http://bramas.fr/teaching/introduction-to-js-and-nodejs.pdf)
 [Cours 2](http://bramas.fr/teaching/real-time-networking-game-with-nodejs.pdf)
 [TP](http://bramas.fr/teaching/TP-Nodejs.pdf)
-<!--[Projet](/teaching/NodeJS-projet.pdf)
--->
+[Projet](https://github.com/Bramas/bramas.fr/raw/gh-pages/NodeJS-projet2.pdf)
+
+
+### Cloud Computing
+
+[Cours 1](https://github.com/Bramas/bramas.fr/raw/gh-pages/introduction%20to%20cloud%20computing.pdf)
