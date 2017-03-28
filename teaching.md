@@ -74,5 +74,5 @@ source ~/.bashrc
 
 ### Simulation and Data Analysis
 
-[Cours 1](https://github.com/Bramas/bramas.fr/raw/gh-pages/Cour 1 Introduction to Simulations.pdf.pdf)
+[Cours 1](https://github.com/Bramas/bramas.fr/raw/gh-pages/Cour 1 Introduction to Simulations.pdf)
 
