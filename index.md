@@ -12,6 +12,11 @@ I am working on:
 I studied mathematics at the University of Clermont-Ferrand and computer science at the University of Paris 5.
 
 
+### Publications in 2017
+##### Journal
+
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=The Random Bit Complexity of Mobile Robots Scattering.&conf=International Journal of Foundations of Computer Science&url=http://www.worldscientific.com/doi/abs/10.1142/S0129054117500083)
+
 
 ### Publications in 2016
 
@@ -19,6 +24,11 @@ I studied mathematics at the University of Clermont-Ferrand and computer science
 ##### Thesis
 
 [gimmick:dblp](authors=Quentin Bramas&title=Energy-Centric Wireless Sensor Networks.&conf=Pierre and Marie Curie University, Paris, France 2016&url=https://tel.archives-ouvertes.fr/tel-01380583)
+
+##### Journal
+
+[gimmick:dblp](authors=Quentin Bramas and Sébastien Tixeuil&title=The Complexity of Data Aggregation in Static and Dynamic Wireless Sensor Networks.&conf=Information and Computation&url=http://www.sciencedirect.com/science/article/pii/S0890540116301274)
+
 
 ##### International Conference
 
