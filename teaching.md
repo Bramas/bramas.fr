@@ -77,3 +77,6 @@ source ~/.bashrc
 
 [Cours 1](https://github.com/Bramas/bramas.fr/raw/gh-pages/Cour 1 Introduction to Simulations.pdf)
 [Cours 2](https://github.com/Bramas/bramas.fr/raw/gh-pages/Cour 2 Data_Analysis&Visualisation.pptx.pdf)
+[TP](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/TP_simulation.pdf)
+[server.png](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/server.png)
+[jbotsim.jar](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/jbotsim.jar)
