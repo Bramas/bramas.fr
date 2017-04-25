@@ -79,4 +79,5 @@ source ~/.bashrc
 [Cours 2](https://github.com/Bramas/bramas.fr/raw/gh-pages/Cour 2 Data_Analysis&Visualisation.pptx.pdf)
 [TP](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/TP_simulation.pdf)
 [server.png](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/server.png)
-[jbotsim.jar](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/jbotsim.jar)
+[jbotsim.jar](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/jbotsim.jar
+**Suite à un empêchement de dernière minute, je ne pourrais pas être présent, j'essaierais de repondre à vos question sur Discord** [Projet](https://github.com/Bramas/bramas.fr/blob/gh-pages/teaching/Projet_simulation.md)
