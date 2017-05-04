@@ -22,10 +22,11 @@ Java DANT
 ProgRes 2017
 -----------
 
-**Projet**
- - Document de 5 pages maximum expliquant les choix techniques effectués
- - Archive du code source
+**Projets à rendre avant le 28 mai minuit**
+ - Document de 5 pages maximum expliquant les choix techniques effectués (Un document par étudiant)
+ - Archive du code source (une archive par binome)
  - Vidéo de démonstration (minimum 3 minutes par étudiant par projet. Maximum 10 minutes)
+
 
 Pour installer un package pour python 3, sur les machines de l'umpc, il faut utiliser la commande suivante:
 
@@ -79,5 +80,5 @@ source ~/.bashrc
 [Cours 2](https://github.com/Bramas/bramas.fr/raw/gh-pages/Cour 2 Data_Analysis&Visualisation.pptx.pdf)
 [TP](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/TP_simulation.pdf)
 [server.png](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/server.png)
-[jbotsim.jar](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/jbotsim.jar
-**Suite à un empêchement de dernière minute, je ne pourrais pas être présent, j'essaierais de repondre à vos question sur Discord** [Projet](https://github.com/Bramas/bramas.fr/blob/gh-pages/teaching/Projet_simulation.md)
+[jbotsim.jar](https://github.com/Bramas/bramas.fr/raw/gh-pages/teaching/jbotsim.jar)
+[Projet](https://github.com/Bramas/bramas.fr/blob/gh-pages/teaching/Projet_simulation.md)
