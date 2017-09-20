@@ -11,4 +11,4 @@ Slides et info pour les RT-INOC 1A 2017/2018
 
 ## Algorithmique et Programmation C
 
-soon
+* [Cours 1](https://bramas.gitlab.io/tps-c/)
