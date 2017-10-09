@@ -10,7 +10,7 @@ Sur moodle
 
 ## Algorithmique et Programmation C
 
-[Doc](https://bramas.gitlab.io/libtps.h/)
+[Documentation](https://bramas.gitlab.io/libtps.h/)
 
 * [Cours 1](https://bramas.gitlab.io/tps-c/)
 * [Cours 2](https://bramas.gitlab.io/tps-c/index.html?file=cours2)
