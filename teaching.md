@@ -17,3 +17,4 @@ Sur moodle
 * [Cours 3](https://bramas.gitlab.io/tps-c/index.html?file=cours3)
 * [Cours 4](https://bramas.gitlab.io/tps-c/index.html?file=cours4)
 * [Cours 5](https://bramas.gitlab.io/tps-c/index.html?file=cours5)
+* [Cours 6](https://bramas.gitlab.io/tps-c/index.html?file=cours6)
